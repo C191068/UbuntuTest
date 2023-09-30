@@ -6,3 +6,6 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 3
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 4
 
 successful
+
+
+https://drive.google.com/file/d/18Rm13R9Cjf72iWs7vaMx64cBtGZAyEcI/view?usp=gmail
